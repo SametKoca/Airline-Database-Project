@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1495416533 source:c:\users\samet\desktop\programlama\prolab2deneme1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"include/mysql.h"
+	<string.h>
+
+1493822514 c:\users\samet\desktop\programlama\prolab2deneme1\include\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1249662434 c:\users\samet\desktop\programlama\prolab2deneme1\include\mysql_version.h
+	<custom_conf.h>
+
+1493822590 c:\users\samet\desktop\programlama\prolab2deneme1\include\mysql_com.h
+
+1492779154 c:\users\samet\desktop\programlama\prolab2deneme1\include\binary_log_types.h
+
+1492779154 c:\users\samet\desktop\programlama\prolab2deneme1\include\my_command.h
+
+1249644672 c:\users\samet\desktop\programlama\prolab2deneme1\include\mysql_time.h
+
+1249644672 c:\users\samet\desktop\programlama\prolab2deneme1\include\my_list.h
+
+1492779154 c:\users\samet\desktop\programlama\prolab2deneme1\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1492779154 c:\users\samet\desktop\programlama\prolab2deneme1\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1249644672 c:\users\samet\desktop\programlama\prolab2deneme1\include\typelib.h
+	"my_alloc.h"
+
+1249644672 c:\users\samet\desktop\programlama\prolab2deneme1\include\my_alloc.h
+
+1492779154 c:\users\samet\desktop\programlama\prolab2deneme1\include\mysql\psi\psi_memory.h
+	"psi_base.h"
+
+1492779154 c:\users\samet\desktop\programlama\prolab2deneme1\include\mysql\psi\psi_base.h
+
